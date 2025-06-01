@@ -1,0 +1,3 @@
+environemnts/dev/terraform.tfvars
+environemnts/dev/.terraform*
+environemnts/dev/terraform*
